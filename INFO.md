@@ -33,12 +33,12 @@ Yet to do:
 
 - [ ]   2. '12 Pets Rescued' Win - 2nd Better Win
 - [ ]   3. '15 Shopkeeper Kills' Win - 2nd Worse Win
-- [ ]   4. '48+ Kali Favour' Win - 2nd Better Win
-- [ ]   5. 'Ball and Chain' Hell Win - 2nd Better Win
-- [ ]   6. 'Ball and Chain' Hell Win - 2nd Worse Win
-- [ ]   7. 'Max Trust HH' Win - 2nd Worse Win
-- [ ]   8. 'No Gold' Win - 2nd Worse Win
-- [ ]   9. 'Eggplant to Yama' Hell Win - 2nd Better Win
+- [ ]   5. '48+ Kali Favour' Win - 2nd Better Win
+- [ ]   7. 'Ball and Chain' Hell Win - 2nd Better Win
+- [ ]   7. 'Ball and Chain' Hell Win - 2nd Worse Win
+- [ ]   8. 'Max Trust HH' Win - 2nd Worse Win
+- [ ]   9. 'No Gold' Win - 2nd Worse Win
+- [ ]   10. 'Eggplant to Yama' Hell Win - 2nd Better Win
 - [ ]   10. 'Eggplant to Yama' Hell Win - 2nd Worse Win
 
 Extras that I might want to test:
