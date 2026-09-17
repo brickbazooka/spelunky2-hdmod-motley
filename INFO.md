@@ -22,7 +22,8 @@ For the table:
 - 1st Win = When you successfully finish the run and get the memento for the first time.
 - 2nd "Better Time" Win = When you successfully finish that same memento run again (second time or later), but with a better completion time than before.
 - 2nd "Worse Time" Win = When you successfully finish that same memento run again (second time or later), but with a worse completion time than before.
-  [x] = There’s new/unique dialogue for that particular combination.
+
+[x] = There’s new/unique dialogue for that particular combination.
 
 Did I get everything right? What am I missing?
 
