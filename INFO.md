@@ -32,7 +32,7 @@ Did I get everything right? What am I missing?
 Yet to do:
 
 - [ ]   2. '12 Pets Rescued' Win - 2nd "Better Time" Win
-- [ ]   3. '15 Shopkeeper Kills' Win - 2nd "Worse Time" Win
+- [x]   3. '15 Shopkeeper Kills' Win - 2nd "Worse Time" Win
 - [ ]   5. '48+ Kali Favour' Win - 2nd "Better Time" Win
 - [ ]   7. 'Ball and Chain' Hell Win - 2nd "Better Time" Win
 - [ ]   7. 'Ball and Chain' Hell Win - 2nd "Worse Time" Win
