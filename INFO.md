@@ -43,6 +43,7 @@ Yet to do:
 
 Extras that I might want to test:
 
+- [ ]   3. '15 Shopkeeper Kills' Win - With Pilot (As per Dracibatic's guess — Special interaction for Meatboy & Pilot because they're cameos...)
 - [x]   9. 'No Gold' Win - With Au (No Special Dialogue)
 - [ ]   10. 'Eggplant to Yama' Hell Win - With Tina
 - [ ]   10. 'Eggplant to Yama' Hell Win - With Lise
