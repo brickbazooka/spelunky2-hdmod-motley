@@ -37,13 +37,13 @@ Yet to do:
 - [ ]   7. 'Ball and Chain' Hell Win - 2nd Better Win
 - [ ]   7. 'Ball and Chain' Hell Win - 2nd Worse Win
 - [ ]   8. 'Max Trust HH' Win - 2nd Worse Win
-- [ ]   9. 'No Gold' Win - 2nd Worse Win
+- [x]   9. 'No Gold' Win - 2nd Worse Win
 - [ ]   10. 'Eggplant to Yama' Hell Win - 2nd Better Win
 - [ ]   10. 'Eggplant to Yama' Hell Win - 2nd Worse Win
 
 Extras that I might want to test:
 
-- [ ]   9. 'No Gold' Win - With Au
+- [x]   9. 'No Gold' Win - With Au (No Special Dialogue)
 - [ ]   10. 'Eggplant to Yama' Hell Win - With Tina
 - [ ]   10. 'Eggplant to Yama' Hell Win - With Lise
 
