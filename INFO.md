@@ -4,7 +4,7 @@ So, the gotta-read/see-everything completionist in me is trying to get a handle 
 | ------------------------------- | ------- | --------------------- | -------------------- | -------------------------- |
 | 01. 'Max Path' Hell Win         | [x]     | [x]                   | [x]                  | [x] (with Little Jay)      |
 | 02. '12 Pets Rescued' Win       | [x]     | [x]                   | [x]                  | [x] (with Valerie Crump)   |
-| 03. '15 Shopkeeper Kills' Win   | [x]     | [x]                   | [x]                  |                            |
+| 03. '15 Shopkeeper Kills' Win   | [x]     | [x]                   | [x]                  | [x] (with Pilot)           |
 | 04. 'Under 20 Minutes' Hell Win | [x]     | [x]                   | [x]                  |                            |
 | 05. '48+ Kali Favour' Win       | [x]     | [x]                   | [x]                  | [x] (with Nekka The Eagle) |
 | 06. '500K+' Win                 | [x]     | [x]                   | [x]                  |                            |
@@ -43,9 +43,9 @@ Yet to do:
 
 Extras that I might want to test:
 
-- [ ]   3. '15 Shopkeeper Kills' Win - With Pilot
-       (As per Dracibatic's guess — Special interaction for Meatboy & Pilot because they're cameos...)
-- [x]   9. 'No Gold' Win - With Au (No Special Dialogue)
+- [x]   3. '15 Shopkeeper Kills' Win - With Pilot
+       (As per Dracibatic's guess — Special interaction for Meatboy & Pilot because they're cameos... — There is special dialogue)
+- [x]   9. 'No Gold' Win - With Au (No special dialogue)
 - [ ]   10. 'Eggplant to Yama' Hell Win - With Tina
 - [ ]   10. 'Eggplant to Yama' Hell Win - With Lise
 
