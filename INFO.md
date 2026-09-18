@@ -31,21 +31,21 @@ Did I get everything right? What am I missing?
 
 Yet to do:
 
-- [ ]   2. '12 Pets Rescued' Win - 2nd "Better Time" Win
-- [x]   3. '15 Shopkeeper Kills' Win - 2nd "Worse Time" Win
-- [ ]   5. '48+ Kali Favour' Win - 2nd "Better Time" Win
-- [ ]   7. 'Ball and Chain' Hell Win - 2nd "Better Time" Win
-- [ ]   7. 'Ball and Chain' Hell Win - 2nd "Worse Time" Win
-- [ ]   8. 'Max Trust HH' Win - 2nd "Worse Time" Win
-- [x]   9. 'No Gold' Win - 2nd "Worse Time" Win
+- [ ]   02. '12 Pets Rescued' Win - 2nd "Better Time" Win
+- [x] ~~03. '15 Shopkeeper Kills' Win - 2nd "Worse Time" Win~~
+- [ ]   05. '48+ Kali Favour' Win - 2nd "Better Time" Win
+- [ ]   07. 'Ball and Chain' Hell Win - 2nd "Better Time" Win
+- [ ]   07. 'Ball and Chain' Hell Win - 2nd "Worse Time" Win
+- [ ]   08. 'Max Trust HH' Win - 2nd "Worse Time" Win
+- [x] ~~09. 'No Gold' Win - 2nd "Worse Time" Win~~
 - [ ]   10. 'Eggplant to Yama' Hell Win - 2nd "Better Time" Win (I think this is non-existent, and the HD Robot will repeat the same dialogue as the original)
 - [ ]   10. 'Eggplant to Yama' Hell Win - 2nd "Worse Time" Win (I think this is non-existent, and the HD Robot will repeat the same dialogue as the original)
 
 Extras that I might want to test:
 
-- [x]   3. '15 Shopkeeper Kills' Win - With Pilot
-       (As per Dracibatic's guess — Special interaction for Meatboy & Pilot because they're cameos... — There is special dialogue)
-- [x]   9. 'No Gold' Win - With Au (No special dialogue)
+- [x] ~~03. '15 Shopkeeper Kills' Win - With Pilot~~
+      (As per Dracibatic's guess — Special interaction for Meatboy & Pilot because they're cameos... — There is special dialogue)
+- [x] ~~09. 'No Gold' Win - With Au~~ (No special dialogue)
 - [ ]   10. 'Eggplant to Yama' Hell Win - With Tina
 - [ ]   10. 'Eggplant to Yama' Hell Win - With Lise
 
