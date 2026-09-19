@@ -31,16 +31,15 @@ Did I get everything right? What am I missing?
 
 Runs that I am yet to do:
 
-- [ ]   07. "Ball and Chain" Hell Win - 2nd "Better Time" Win
 - [ ]   10. "Eggplant to Yama" Hell Win - 2nd "Better Time" Win (I think this is non-existent, and the HD Robot will repeat the same dialogue as the original)
 - [ ]   10. "Eggplant to Yama" Hell Win - 2nd "Worse Time" Win (I think this is non-existent, and the HD Robot will repeat the same dialogue as the original)
+- [x] ~~07. "Ball and Chain" Hell Win - 2nd "Better Time" Win~~
 - [x] ~~07. "Ball and Chain" Hell Win - 2nd "Worse Time" Win~~
 - [x] ~~02. "12 Pets Rescued" Win - 2nd "Better Time" Win~~
 - [x] ~~05. "48+ Kali Favour" Win - 2nd "Better Time" Win~~
 - [x] ~~08. "Max Trust HH" Win - 2nd "Better Time" Win~~
 - [x] ~~03. "15 Shopkeeper Kills" Win - 2nd "Worse Time" Win~~
 - [x] ~~09. "No Gold" Win - 2nd "Worse Time" Win~~
-
 
 Runs that I want to test for special dialogue:
 
