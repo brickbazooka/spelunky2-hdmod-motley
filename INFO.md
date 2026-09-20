@@ -31,8 +31,8 @@ Did I get everything right? What am I missing?
 
 Runs that I am yet to do:
 
-- [ ]   10. "Eggplant to Yama" Hell Win - 2nd "Better Time" Win (I think this is non-existent, and the HD Robot will repeat the same dialogue as the original)
 - [ ]   10. "Eggplant to Yama" Hell Win - 2nd "Worse Time" Win (I think this is non-existent, and the HD Robot will repeat the same dialogue as the original)
+- [x] ~~10. "Eggplant to Yama" Hell Win - 2nd "Better Time" Win~~ (No special dialogue)
 - [x] ~~07. "Ball and Chain" Hell Win - 2nd "Better Time" Win~~
 - [x] ~~07. "Ball and Chain" Hell Win - 2nd "Worse Time" Win~~
 - [x] ~~02. "12 Pets Rescued" Win - 2nd "Better Time" Win~~
@@ -43,8 +43,8 @@ Runs that I am yet to do:
 
 Runs that I want to test for special dialogue:
 
-- [ ]   10. "Eggplant to Yama" Hell Win - With Tina
 - [ ]   10. "Eggplant to Yama" Hell Win - With Lise
+- [x] ~~10. "Eggplant to Yama" Hell Win - With Tina~~ (No special dialogue)
 - [x] ~~03. "15 Shopkeeper Kills" Win - With Pilot~~
       (As per Dracibatic's guess — Special interaction for Meatboy & Pilot because they are cameos... — There is special dialogue)
 - [x] ~~09. "No Gold" Win - With Au~~ (No special dialogue)
