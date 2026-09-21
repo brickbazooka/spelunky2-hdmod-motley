@@ -31,7 +31,7 @@ Did I get everything right? What am I missing?
 
 Runs that I am yet to do:
 
-- [ ]   10. "Eggplant to Yama" Hell Win - 2nd "Worse Time" Win (I think this is non-existent, and the HD Robot will repeat the same dialogue as the original)
+- [x] ~~10. "Eggplant to Yama" Hell Win - 2nd "Worse Time" Win~~ (No special dialogue, as confirmed by The Greeni Porcini)
 - [x] ~~10. "Eggplant to Yama" Hell Win - 2nd "Better Time" Win~~ (No special dialogue)
 - [x] ~~07. "Ball and Chain" Hell Win - 2nd "Better Time" Win~~
 - [x] ~~07. "Ball and Chain" Hell Win - 2nd "Worse Time" Win~~
