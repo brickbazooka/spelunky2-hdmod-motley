@@ -11,7 +11,7 @@ So, the gotta-read/see-everything completionist in me is trying to get a handle 
 | 07. "Ball and Chain" Hell Win   | [x]     | [x]                   | [x]                  |                            |
 | 08. "Max Trust HH" Win          | [x]     | [x]                   | [x]                  |                            |
 | 09. "No Gold" Win               | [x]     | [x]                   | [x]                  |                            |
-| 10. "Eggplant to Yama" Hell Win | [x]     |                       |                      |                            |
+| 10. "Eggplant to Yama" Hell Win | [x]     |                       |                      | [x] (with Lise)            |
 | 11. "Pacifist" Win              | [x]     | [x]                   | [x]                  |                            |
 | 12. "No Damage" Win             | [x]     | [x]                   | [x]                  | [x] (with Dirk)            |
 
@@ -43,7 +43,7 @@ Runs that I am yet to do:
 
 Runs that I want to test for special dialogue:
 
-- [ ]   10. "Eggplant to Yama" Hell Win - With Lise
+- [x] ~~10. "Eggplant to Yama" Hell Win - With Lise~~ (There is special dialogue)
 - [x] ~~10. "Eggplant to Yama" Hell Win - With Tina~~ (No special dialogue)
 - [x] ~~03. "15+ Shopkeeper Kills" Win - With Pilot~~
       (As per Dracibatic's guess — Special interaction for Meatboy & Pilot because they are cameos... — There is special dialogue)
